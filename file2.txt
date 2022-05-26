@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "this is file2 - master version" 
+=======
+"this is file2 -- version2 --merge" 
+>>>>>>> feature
