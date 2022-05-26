@@ -1,2 +1,2 @@
-"this is file2 - master version" 
+"this is file2 - master version"
 
